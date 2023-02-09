@@ -16,5 +16,8 @@
         "Price": 800000
       }
     ],
-    "wishlist": []
+    "users": [],
+    "login": [],
+    "signup": [],
+    "products": []
   }
