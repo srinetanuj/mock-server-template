@@ -20,5 +20,6 @@
     "login": [],
     "signup": [],
     "products": [],
-    "blogs":[]
+    "blogs":[],
+    "admin": []
   }
